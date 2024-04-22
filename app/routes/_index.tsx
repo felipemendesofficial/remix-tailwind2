@@ -11,8 +11,7 @@ export const meta: MetaFunction = () => {
 export default function Index() {
   return (
     <div>
-      <h1>Teste 2</h1>
-      <Button>Clique</Button>
+      <Button>Click ne==me</Button>
     </div>
   );
 }
